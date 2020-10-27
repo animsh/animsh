@@ -1,5 +1,5 @@
 <p align='center'>
-   <img src="https://github.com/animsh/animsh/blob/main/gifs/hadder.gif">
+   <img src="https://github.com/animsh/animsh/blob/main/gifs/tenor.gif">
 </p>
 <h2 align="center">Hi there<img width="30px" src="https://github.com/animsh/animsh/blob/main/gifs/Hi.gif">,I'm <a href="https://animsh.github.io">Sagar More</a></h2>
 <p align="center">
