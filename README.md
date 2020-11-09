@@ -10,8 +10,13 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=animsh&show_icons=true&border=true" alt="Sagar's Github stats" align="center">
  
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=animsh" alt="animsh's wakatime stats" align="center">
+<br>
+
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=animsh&layout=compact" alt="Sagar's Github stats" align="center">
 <br>
+
 
 <h1 align="center">Catch Me At</h1>
 <p align="center">
