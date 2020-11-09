@@ -7,16 +7,21 @@
   I'm a Android Developer and a Tech Enthusiast who loves everything which involves code💻. Currently I am pursuing Diploma in Computer Engineering .I love to explore all fields related to programming especially which involves Java, Kotlin, Python🐍, Linux, Web development and its modules .Apart from being a Tech Geek,I am an avid art🎨 lover and loves to try various Platform.
   </samp>
 </p>
+
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=animsh&show_icons=true&border=true" alt="Sagar's Github stats" align="center">
- 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=animsh" alt="animsh's wakatime stats" align="center">
+   <img src="https://github-readme-stats.vercel.app/api?username=animsh&show_icons=true&border=true" alt="Sagar's Github stats" align="center">
+</p>
+<br>
+
+<p align='center'>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=animsh" alt="animsh's wakatime stats" align="center">
+</p>
 <br>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=animsh&layout=compact" alt="Sagar's Github stats" align="center">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=animsh&layout=compact" alt="Sagar's Github stats" align="center">
+</p>
 <br>
-
 
 <h1 align="center">Catch Me At</h1>
 <p align="center">
