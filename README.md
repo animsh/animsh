@@ -14,7 +14,7 @@
 <br>
 
 <p align='center'>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=animsh" alt="animsh's wakatime stats" align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=animsh&v=2" alt="animsh's wakatime stats" align="center">
 </p>
 <br>
 
