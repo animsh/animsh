@@ -1,3 +1,5 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=animsh&color=4285f4&style=flat-square" alt="animsh" /> </p>
+
 <p align='center'>
    <img src="https://github.com/animsh/animsh/blob/main/gifs/tenor.gif">
 </p>
