@@ -6,7 +6,7 @@
 <h2 align="center">Hi there<img width="30px" src="https://github.com/animsh/animsh/blob/main/gifs/Hi.gif">,I'm <a href="https://animsh.github.io">Sagar More</a></h2>
 <p align="center">
   <samp>
-  I'm a Android Developer and a Tech Enthusiast who loves everything which involves code💻. Currently I am pursuing Diploma in Computer Engineering .I love to explore all fields related to programming especially which involves Java, Kotlin, Python🐍, Linux, Web development and its modules .Apart from being a Tech Geek,I am an avid art🎨 lover and loves to try various Platform.
+  I'm a Android Developer and a Tech Enthusiast who loves everything which involves code💻. Currently I am pursuing B.E. in Computer Engineering .I love to explore all fields related to programming especially which involves Java, Kotlin, Python🐍, Linux, Web development and its modules .Apart from being a Tech Geek,I am an avid art🎨 lover and loves to try various Platform.
   </samp>
 </p>
 
