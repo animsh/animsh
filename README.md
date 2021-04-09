@@ -20,10 +20,7 @@
 </p>
 <br>
 
-<p align="center">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=animsh&layout=compact" alt="Sagar's Github stats" align="center">
-</p>
-<br>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=animsh" alt="animsh"/></p>
 
 <h1 align="center">Catch Me At</h1>
 <p align="center">
