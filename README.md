@@ -20,7 +20,7 @@
 </p>
 <br>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=animsh" alt="animsh"/></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=animsh&v=2" alt="animsh"/></p>
 
 <h1 align="center">Catch Me At</h1>
 <p align="center">
