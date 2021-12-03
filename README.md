@@ -52,7 +52,7 @@ I'm a Android Developer and a Tech Enthusiast who loves everything which involve
 #### 💬 Feel free to contact me
 <a href="https://www.instagram.com/__animesh7__/"><img src="https://img.shields.io/badge/-@__animesh7__-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
 <a href="https://www.linkedin.com/in/animshmore/"><img src="https://img.shields.io/badge/animshmore-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-<a href="mailto:animsh.more@gmail.com?subject=Hola%20Kunal"><img src="https://img.shields.io/badge/animsh.more@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
+<a href="mailto:animsh.more@gmail.com?subject=Hola%20Sagar"><img src="https://img.shields.io/badge/animsh.more@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 
 #
 
