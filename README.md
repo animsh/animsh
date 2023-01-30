@@ -1,7 +1,7 @@
 ## *Hey, Myself Sagar More (21 y.o)!*
 [![Linkedin: animsh ](https://img.shields.io/badge/-animsh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/animsh/)](https://www.linkedin.com/in/animsh/)
 ![Profile Views](https://komarev.com/ghpvc/?username=animsh&color=blue&style=flat-square)
-### aboutme.kt
+### aboutme.js
 ~~~javascript
 const animsh = {
     pronouns: "he" | "him",
@@ -42,4 +42,5 @@ const animsh = {
  <i>Take a look at my repositories and let's get in touch!</i>
 </p>
 
+![Sagar More](https://raw.githubusercontent.com/animsh/animsh/main/assets/bottom_header.svg)
 <br>
