@@ -1,25 +1,27 @@
-## *Hey, Myself Sagar More (21 y.o)!*
+## *Hey, Myself Sagar More (22 y.o)!*
 [![Linkedin: animsh ](https://img.shields.io/badge/-animsh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/animsh/)](https://www.linkedin.com/in/animsh/)
 ![Profile Views](https://komarev.com/ghpvc/?username=animsh&color=blue&style=flat-square)
 ### aboutme.js
 ~~~javascript
 const animsh = {
     pronouns: "he" | "him",
-    code: [Python, Java, Kotlin, HTML, CSS, Javascript],
     askMeAbout: ["android/web dev", "tech", "anime", "music", "chai"],
     technologies: {
-        databases: {
-            "MySql", "SQLite", "Room"
-        }
-        tools: [
-            "android studio",
-            "vs code",
-            "git",
-            "firebase"
+        languages: [
+            "Java", "Kotlin", "Python", "HTML", "CSS", "JavaScript"
         ],
-        os: [
-            "windows 11",
-            "kali linux"
+        frameworks: [
+            "React", "Django"
+        ]
+        ,
+        databases: [
+            "MySql", "SQLite", "Room"
+        ]
+        tools: [
+            "android studio", "vs code", "git", "firebase"
+        ],
+        oss: [
+            "windows","linux"
         ]
     }
 };
