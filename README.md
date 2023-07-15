@@ -11,11 +11,11 @@ const animsh = {
             "Java", "Kotlin", "Python", "HTML", "CSS", "JavaScript"
         ],
         frameworks: [
-            "React", "Django"
+            "React", "Django", "Node.js"
         ]
         ,
         databases: [
-            "MySql", "SQLite", "Room"
+            "MySql", "SQLite", "Room", "MongoDB"
         ],
         tools: [
             "android studio", "vs code", "git", "firebase"
