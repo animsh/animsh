@@ -15,7 +15,7 @@ const animsh = {
         ]
         ,
         databases: [
-            "MySql", "SQLite", "Room", "MongoDB"
+            "MySql", "SQLite", "Room", "MongoDB", "NoSQL"
         ],
         tools: [
             "android studio", "vs code", "git", "firebase"
